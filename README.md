@@ -12,4 +12,4 @@ StudentHub es una plataforma universitaria para administrar información de estu
 - Maria Angelica Guerrero Mendez
 - Developer B
 
-StudentHub es una solución digital para administrar estudiantes y cursos universitarios.
+StudentHub es una plataforma digital para gestionar estudiantes, cursos y servicios académicos universitarios.
